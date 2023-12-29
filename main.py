@@ -6,7 +6,7 @@
 
 def main():
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Me first programm1')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Me first programm2')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
